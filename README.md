@@ -39,7 +39,7 @@ SpiderRecon/
 Clone the repository:
 
 ```bash id="k4u6cc"
-git clone https://github.com/your-username/SpiderRecon.git
+git clone https://github.com/rkzdevv/SpiderRecon.git
 cd SpiderRecon
 ```
 
