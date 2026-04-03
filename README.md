@@ -23,6 +23,7 @@
 ```id="ybcmql"
 SpiderRecon/
 ├── spiderrecon.sh
+├── demo.gif
 ├── modules/
 │   ├── scan.sh
 │   ├── parser.py
